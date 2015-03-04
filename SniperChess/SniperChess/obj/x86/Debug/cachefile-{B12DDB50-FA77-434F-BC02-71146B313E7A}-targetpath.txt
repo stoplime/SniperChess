@@ -1,0 +1,13 @@
+Content\ChessBoard.xnb
+Content\piece\B_Bishop.xnb
+Content\piece\B_Knight.xnb
+Content\piece\B_Pawn.xnb
+Content\piece\B_Queen.xnb
+Content\piece\B_Rook.xnb
+Content\piece\W_Bishop.xnb
+Content\piece\W_King.xnb
+Content\piece\W_Knight.xnb
+Content\piece\W_Pawn.xnb
+Content\piece\W_Queen.xnb
+Content\piece\W_Rook.xnb
+Content\piece\B_King.xnb
