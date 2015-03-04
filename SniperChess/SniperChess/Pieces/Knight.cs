@@ -11,8 +11,8 @@ namespace SniperChess
     public class Knight : GamePiece
     {
 
-        public Knight(SpriteBatch sb, Texture2D tex, Vector2 gridPos)
-            : base(sb, tex, gridPos)
+        public Knight(SpriteBatch sb, Texture2D tex, Vector2 gridPos, bool white)
+            : base(sb, tex, gridPos, white)
         {
             value = 1000000;//one million
 

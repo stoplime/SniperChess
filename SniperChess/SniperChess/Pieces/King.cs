@@ -11,8 +11,8 @@ namespace SniperChess
     public class King : GamePiece
     {
 
-        public King(SpriteBatch sb, Texture2D tex, Vector2 gridPos)
-            : base(sb, tex, gridPos)
+        public King(SpriteBatch sb, Texture2D tex, Vector2 gridPos, bool white)
+            : base(sb, tex, gridPos, white)
         {
             value = 1000000;//one million
 
